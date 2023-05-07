@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jeffBP
-- 👀 I’m interested in Artificial Intelligence and Robotics!
-- 🌱 I’m currently working through MIT OpenCourseWare 6.034 (Artificial Intelligence) and refreshing on data structures and algorithms.
-- 💞️ I’m looking to collaborate on: I'm not sure yet! I'm a bit of a generalist when it comes to programming, though my favorite language is C++.
+- 👀 I’m broadly interested in Artificial Intelligence and Robotics! As such, I am beginning a PhD at Northeastern University in Fall 2023!
 - 📫 How to reach me: Reach out to my email (jeffpflueger1@gmail.com).
 
 <!---
